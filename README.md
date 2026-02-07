@@ -46,7 +46,6 @@ SELECT c.customer_id,c.customer_name FROM customers c LEFT JOIN sales s ON c.cus
  Interpretation:
 Customers returned by this query have never made a purchase.
 
-📸 Add screenshot of query result here
 
 3. RIGHT JOIN
 (Identify products that have never been sold)
