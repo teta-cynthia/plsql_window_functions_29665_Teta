@@ -149,4 +149,10 @@ GROUP BY customer_id;
 ![ER Diagram](/Screenshot/Picture12.png)
 
 Interpretation:
-Segments customers into four groups, enabling targeted marketing strategies
+Segments customers into four groups, enabling targeted marketing strategies.
+
+
+REFERENCES;
+source:Notes of DBMS from TEMITOPE OGUNTADE
+ERD:DRAWIO
+DBMS TOOL:Postgresql for running queries evidences are screenshots in this document
