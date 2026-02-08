@@ -3,6 +3,7 @@
  Teta_Nzaramba_Cynthia 
  Group A
 
+     SQL JOINS and Window Functions
 
 Step 1: Problem Definition
 
